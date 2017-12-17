@@ -1,0 +1,1 @@
+export const SELECT_MAC_ADDRES = 'SELECT_MAC_ADDRES';
